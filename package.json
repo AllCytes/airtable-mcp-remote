@@ -1,0 +1,15 @@
+{
+  "name": "airtable-mcp-remote",
+  "version": "1.0.0",
+  "description": "Remote Airtable MCP server for ElevenLabs voice agents",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "airtable-mcp-server": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
